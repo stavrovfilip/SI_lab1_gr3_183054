@@ -1,4 +1,5 @@
 class Item {
+	Character danok;
 	int id;
 	String name;
 	double price;
